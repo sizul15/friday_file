@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{text-align: center;
+color: deeppink;
+background-color: cyan;
+margin-top:0;
+
+font-size: 30px;
+
+
+position: fixed;
+width: 100%;
+top:0px;
+}
+body{background-image: url(https://media.istockphoto.com/id/1088363648/photo/marketing-leads-and-sales-concept.jpg?s=612x612&w=0&k=20&c=52DWv2lz-IWUdu6_skh6gScXe0YpGSV2Kn3EodJyoTs=);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+p{text-align: left;
+color: white;
+font-size: 30px;
+margin-top: 30px;
+background-color: orange;
+position: fixed;
+width: 100%;
+top: 0px;
+
+}
+.h3{color: gold;
+
+font-size: 30px;
+background-color: rgb(113, 14, 241);
+margin-top: 500px;
+margin-bottom: 100px;
+
+}
+h2{
+    background-color: white;
+    margin-top: 600px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin: 0;
+
+}
+h4{
+    font-size: 30px;
+    background-color: rgb(134, 236, 87);
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+.mediaicon{
+    color: rgb(238, 16, 179);
+}
+.from{background-color: azure;
+margin-top: 80px;
+}
+.socialicon{
+    
+    margin-left: 1400px;
+}
